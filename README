@@ -1,0 +1,8 @@
+> If you want to run reciPY in an environment other than MacOS, please open reciPY.py and change the shell command that you use to open urls. Change the variable "browser_command". 
+
+> Do not forget to place the index in the same directory as reciPY.py!
+
+Have yourself a good meal :)
+
+--
+Amarals
